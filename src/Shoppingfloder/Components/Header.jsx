@@ -10,9 +10,9 @@ const Header = () => {
         </div>
         <div className="center">
             <ul>
-                <li>Women</li>
-                <li>Men</li>
-                <li>Childern</li>
+                <li>Womens</li>
+                <li>Mens</li>
+                <li>Childerns</li>
                 <li>Beauty</li>
             </ul>
         </div>
